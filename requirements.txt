@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+faiss-cpu
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf 
+python-docx 
+python-pptx
